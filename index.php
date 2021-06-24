@@ -34,8 +34,8 @@
                                     <a href="index.html" class="logo logo-admin">
                                         <img src="default/assets/images/logo-sm-dark.png" height="50" alt="logo" class="auth-logo">
                                     </a>
-                                    <h4 class="mt-3 mb-1 fw-semibold text-white font-18">Let's Get Started Dastone</h4>
-                                    <p class="text-muted  mb-0">Sign in to continue to Dastone.</p>
+                                    <h4 class="mt-3 mb-1 fw-semibold text-white font-18">ENTRA A DASTONE LOQUITO</h4>
+                                    <p class="text-muted  mb-0">REGISTRATE EN DASTONE.</p>
                                 </div>
                             </div>
                             <div class="card-body p-0">
